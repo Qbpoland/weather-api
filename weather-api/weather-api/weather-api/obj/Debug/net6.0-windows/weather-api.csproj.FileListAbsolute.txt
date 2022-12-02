@@ -1,0 +1,17 @@
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\bin\Debug\net6.0-windows\weather-api.exe
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\bin\Debug\net6.0-windows\weather-api.deps.json
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\bin\Debug\net6.0-windows\weather-api.runtimeconfig.json
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\bin\Debug\net6.0-windows\weather-api.dll
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\bin\Debug\net6.0-windows\weather-api.pdb
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\obj\Debug\net6.0-windows\weather-api.csproj.AssemblyReference.cache
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\obj\Debug\net6.0-windows\weather_api.Form1.resources
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\obj\Debug\net6.0-windows\weather-api.csproj.GenerateResource.cache
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\obj\Debug\net6.0-windows\weather-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\obj\Debug\net6.0-windows\weather-api.AssemblyInfoInputs.cache
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\obj\Debug\net6.0-windows\weather-api.AssemblyInfo.cs
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\obj\Debug\net6.0-windows\weather-api.csproj.CoreCompileInputs.cache
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\obj\Debug\net6.0-windows\weather-api.dll
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\obj\Debug\net6.0-windows\refint\weather-api.dll
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\obj\Debug\net6.0-windows\weather-api.pdb
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\obj\Debug\net6.0-windows\weather-api.genruntimeconfig.cache
+C:\Users\1074701\Desktop\weather-api\weather-api\weather-api\obj\Debug\net6.0-windows\ref\weather-api.dll
